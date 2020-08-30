@@ -18,22 +18,22 @@ export default {
         {
           id: 1,
           title: "Morning priming",
-          completion: true,
+          completed: true,
         },
         {
           id: 2,
           title: "Practicing algorithms and data structures",
-          completion: false,
+          completed: false,
         },
         {
           id: 3,
           title: "Create and work on new Websocket project",
-          completion: false,
+          completed: false,
         },
         {
           id: 4,
           title: "Gym",
-          completion: false,
+          completed: false,
         },
       ],
     };
